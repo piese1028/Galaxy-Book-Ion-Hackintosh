@@ -15,7 +15,7 @@ Created based on Opencore 0.8.5.
 - Most SSDs except embedded and some SSDs ([cf.](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Storage.html))
 
 ## How to install
-1. Follow the [Opencore Guide] (https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html) to create a macOS installation USB, then insert the EFI folder into the USB.
+1. Follow the [Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html) to create a macOS installation USB, then insert the EFI folder into the USB.
 2. Fill the MLB, ROM, SystemSerialNumber, SystemUUID blank in PlatformInfo-General in config.plist with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
 3. After installing macOS, refer to the [Built-in Sound Fix Guide](./Audio%20patch) to fix the built-in sound function.
 
