@@ -1,12 +1,12 @@
 # Galaxy Book Ion Hackintosh
 Samsung Galaxy Book Ion OpenCore EFI
- 
-[English Version](./README-ENG.md)
 
 ## Overview
 This is Opencore EFI available for Samsung Galaxy Book Ion 1st Generation.
 
 Created based on Opencore 0.8.5.
+
+Works normally on macOS Ventura 13.1 Beta 3.
 
 ## Stable Use Specifications
 - Samsung Galaxy Book Ion
