@@ -8,7 +8,7 @@
 
 Opencore 0.8.5를 기반으로 제작되었습니다.
 
-macOS Ventura 13.1 Beta 3 에서 정상 작동을 확인하였습니다.
+macOS Ventura에서 정상 작동을 확인하였습니다.
 
 ## 안정적인 사용이 가능한 사양
 - Samsung Galaxy Book Ion
