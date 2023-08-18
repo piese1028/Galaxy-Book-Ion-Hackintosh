@@ -4,17 +4,45 @@
 [English Version](./README-ENG.md)
 
 ## 개요
-삼성 갤럭시북 이온 1세대에서 사용가능한 Opencore EFI입니다.
+삼성 갤럭시북 이온 1세대에서 사용가능한 Opencore EFI 입니다.
 
 Opencore 0.8.5를 기반으로 제작되었습니다.
 
-macOS Ventura에서 정상 작동을 확인하였습니다.
 
-## 안정적인 사용이 가능한 사양
-- Samsung Galaxy Book Ion
-- Intel Core i5-10210U
-- Intel UHD Graphics 620 / MX250(외장그래픽 사용 불가)
-- 기본 제공 및 일부 SSD를 제외한 대부분의 SSD ([참고](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Storage.html))
+
+## 작동 버전
+| 버전 | 작동 여부 |
+|--------------------|-----|
+| macOS Big Sur | ✅ |
+| macOS Monterey | ✅ |
+| macOS Ventura | ✅ |
+| macOS Sonoma | ⚠️ |
+
+## 권장 사양
+| 부품 | 정보 |
+|---------------|----|
+| Laptop        | NT950XCJ |
+| CPU           | Intel Core i5-10210U |
+| GPU           | Intel UHD Graphics 620 |
+| SSD           | 기본 제공 및 일부 SSD를 제외한 대부분의 SSD ([참고](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Storage.html)) |
+
+## 기능 작동 현황
+| 기능 | 설명 | 작동 여부 |
+|--------------------|-------------|---------------|
+| 🛜 WiFi             | Apple 연속성 기능 작동하지 않음 | ✅ |
+| 🔵 Bluetooth        | Apple 연속성 기능 작동하지 않음 | ✅ |
+| ⌨️ Keyboard         | | ✅ |
+| 🖱️ Trackpad         | | ✅ |
+| 💻 Lid Close Sensor | | ✅ |
+| 🔋 Battery          | | ✅ |
+| 📸 Webcam           | | ✅ |
+| 🔊 Speaker          | 음질 매우 낮음, 부팅중 작동하지 않음 | ✅ |
+| 📺 HDMI / DP Out    | 테스트되지 않음 | ⚠️ |
+| 🎙️ Mic              | | ❌ |
+| ⚡ Thunderbolt       | | ❌ |
+| 🧬 Fingerprint Sensor | | ❌ |
+| 💤 Sleep            | | ❌ |
+| 🎆 dGPU             | Nvidia, 가능한 방법 없음 | ❌ |
 
 ## 설치 방법
 1. [Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html)를 따라 macOS 설치 USB를 만든 다음 EFI 폴더를 USB에 넣습니다.
