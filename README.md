@@ -21,7 +21,7 @@ Opencore 0.8.5를 기반으로 제작되었습니다.
 ## 권장 사양
 | 부품 | 정보 |
 |---------------|----|
-| Laptop        | NT950XCJ |
+| Laptop        | Samsung Galaxy Book Ion |
 | CPU           | Intel Core i5-10210U |
 | GPU           | Intel UHD Graphics 620 |
 | SSD           | 기본 제공 및 일부 SSD를 제외한 대부분의 SSD ([참고](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Storage.html)) |
