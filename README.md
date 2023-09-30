@@ -49,7 +49,7 @@ macOS Sonoma 이전 버전 사용자는 [AirportItlwn](https://github.com/OpenIn
 4. macOS 설치 후 [Built-in Sound Fix Guide](./Audio%20patch)를 참고하여 내장 사운드 기능을 픽스하세요.
 
 ## 업데이트 내역
-2023-09-30 : EFI를 macOS Sonoma 지원하도록 업그레이드
+2023-09-30 : macOS Sonoma 지원
 
 ## 참고 자료
 - https://github.com/wei756/NT950XCR-G58A-Hackintosh
