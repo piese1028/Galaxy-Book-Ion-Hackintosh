@@ -6,15 +6,13 @@
 
 Opencore 0.9.4를 기반으로 제작되었습니다.
 
-
-
 ## 작동 버전
 | 버전 | 작동 여부 |
 |--------------------|-----|
 | macOS Big Sur | ✅ |
 | macOS Monterey | ✅ |
 | macOS Ventura | ✅ |
-| macOS Sonoma | ⚠️ |
+| macOS Sonoma | ✅ |
 
 ## 권장 사양
 | 부품 | 정보 |
@@ -35,7 +33,7 @@ Opencore 0.9.4를 기반으로 제작되었습니다.
 | 🔋 Battery          | | ✅ |
 | 📸 Webcam           | | ✅ |
 | 🔊 Speaker          | 음질 매우 낮음, 부팅중 작동하지 않음 | ✅ |
-| 📺 HDMI / DP Out    | 테스트되지 않음 | ⚠️ |
+| 📺 HDMI / DP Out    | C to HDMI로 테스트시 불가 | ⚠️ |
 | 🎙️ Mic              | | ❌ |
 | ⚡ Thunderbolt       | | ❌ |
 | 🧬 Fingerprint Sensor | | ❌ |
@@ -49,7 +47,7 @@ Opencore 0.9.4를 기반으로 제작되었습니다.
 4. macOS 설치 후 [Built-in Sound Fix Guide](./Audio%20patch)를 참고하여 내장 사운드 기능을 픽스하세요.
 
 ## 업데이트 내역
-
+2023-09-30 : macOS Sonoma 업그레이드
 
 ## 참고 자료
 - https://github.com/wei756/NT950XCR-G58A-Hackintosh
