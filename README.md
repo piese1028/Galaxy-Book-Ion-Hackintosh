@@ -45,7 +45,7 @@ macOS Sonoma 이전 버전 사용자는 [AirportItlwn](https://github.com/OpenIn
 ## 설치 방법
 1. [Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html)를 따라 macOS 설치 USB를 제작하세요.
 2. EFI를 다운로드 한 후 USB에 넣어주세요.
-3. config.plist내 PlatformInfo-Generic에 Changehere이라고 되어있는 MLB, ROM, SystemSerialNumber, SystemUUID을 [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)를 통해 채워주세요.
+3. config.plist내 Changehere이라고 되어있는 부분(MLB, ROM, SystemSerialNumber, SystemUUID)을 [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)를 통해 채워주세요.
 4. macOS 설치 후 [Built-in Sound Fix Guide](./Audio%20patch)를 참고하여 내장 사운드 기능을 픽스하세요.
 
 ## 업데이트 내역
