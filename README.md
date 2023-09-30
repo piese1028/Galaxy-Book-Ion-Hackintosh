@@ -14,6 +14,8 @@ Opencore 0.9.4를 기반으로 제작되었습니다.
 | macOS Ventura | ✅ |
 | macOS Sonoma | ✅ |
 
+macOS Ventura 이전 버전 사용자는 [AirportItlwn](https://github.com/OpenIntelWireless/itlwm/releases/latest), [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/latest), [IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/latest)을 해당 버전으로 교체 후 사용하시기 바랍니다.
+
 ## 권장 사양
 | 부품 | 정보 |
 |---------------|----|
