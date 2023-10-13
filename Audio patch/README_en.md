@@ -7,7 +7,7 @@
 
 ![pic2](./2_en.png)
 
-4. Change speaker's format to 48,000 Hz at Audio MIDI Setup application to remove static noise from audio jack.
+4. Change speaker's format to 48,000 Hz at Audio MIDI Setup application to remove static noise from speaker.
 
 ### See also
 * https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1851518
