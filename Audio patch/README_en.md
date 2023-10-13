@@ -1,11 +1,11 @@
 # Integrated Speaker/Audio jack fix
-![pic1](./1.png)
+![pic1](./1_en.png)
 
 1. Download hda folder and HDA fix.app then move to /Applications folder.
 2. Add HDA fix.app to Login Items at `System Settings → General → Login Items`.
 3. Restart or start HDA fix.app
 
-![pic2](./2.png)
+![pic2](./2_en.png)
 
 4. Change speaker's format to 48,000 Hz at Audio MIDI Setup application to remove static noise from audio jack.
 
