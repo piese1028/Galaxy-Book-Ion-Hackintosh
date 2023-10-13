@@ -49,7 +49,7 @@ If you're using macOS prior to macOS Sonoma, please swap these files to correspo
 1. Create installer usb following the [Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html).
 2. Download the EFI and move files to the USB
 3. Edit config.plist with generated value from [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS). Editing point marked with `Changehere`
-4. Fix sound issue following the [Built-in Sound Fix Guide](./Audio%20patch).
+4. Fix sound issue following the [Built-in Sound Fix Guide](./Audio%20patch/README_en.md).
 
 ## Release note
 2023-09-30 : Added support for macOS Sonoma
