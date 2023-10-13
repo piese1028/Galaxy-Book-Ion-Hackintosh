@@ -1,7 +1,7 @@
 # Galaxy Book Ion Hackintosh
 Samsung Galaxy Book Ion OpenCore EFI
 
-See English version [here](./README_EN.md)
+See English version [here](./README_en.md)
 
 ## 개요
 삼성 갤럭시북 이온 1세대에서 사용가능한 Opencore EFI 입니다.
