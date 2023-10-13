@@ -1,5 +1,5 @@
 # Galaxy Book Ion Hackintosh
- Samsung Galaxy Book Ion OpenCore EFI
+Samsung Galaxy Book Ion OpenCore EFI
 See English version [here](./README_EN.md)
 
 ## 개요
